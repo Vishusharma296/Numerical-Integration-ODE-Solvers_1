@@ -1,5 +1,5 @@
 # Numerical-Integration-ODE-Solvers_1
-Contain the Matlab Codes for Numerical Integration by methods like:
+This repository contains the Matlab Codes for Numerical Integration by methods like:
 Forward Euler, Backward Euler, Mid point Rule, Trapezoidal Rule, Simpson's Rule
 
 Example of Pendulum Swing
